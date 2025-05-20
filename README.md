@@ -5,7 +5,7 @@ This version uses React, Redux, Express, and PostgreSQL (a full list of dependen
 ### Description
 
 **FEEDBACK**
-FEEDBACK is an application that collects a user's daily feedback. It can be used in learning and working environments.
+is an application that collects a user's daily feedback. It can be used in learning and working environments.
 Upon arriving, the user is prompted to rate their feeling, the level of their understanding and their level of support with an additional comment section. The user is then required to submit the feedback form.
 
  
